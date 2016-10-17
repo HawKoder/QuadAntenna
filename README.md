@@ -13,3 +13,6 @@ The outputs of the function are:
 Inductance of the coil, in micro Henry
 The number of loops in the coil
 The total length of the wire in meters
+
+
+![alt tag](https://github.com/HawKoder/QuadAntenna/blob/master/Antenna.JPG)
